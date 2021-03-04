@@ -65,6 +65,7 @@ h1 {
     width: 30%;
     background: #9AE84F;
     padding: 15px;
+    box-shadow: 5px 5px 5px 5px lightgray;
 }
 
 .col-right {
